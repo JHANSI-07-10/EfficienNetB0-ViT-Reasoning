@@ -41,7 +41,7 @@ The model captures:
 
 ## 🧠 Model Architecture
 
-![Hybrid Model Architecture](./assets/model_architecture.png)
+![Hybrid Model Architecture]([./assets/model_architecture.png](https://github.com/JHANSI-07-10/EfficienNetB0-ViT-Reasoning/blob/ed331065a68f18c674d5f99d6ce26d850fd03424/assets/architecture.png))
 
 ### 🔹 Architecture Flow
 
@@ -106,13 +106,6 @@ streamlit run app/app.py
 
 ## 🖥️ Demo
 
-### 🔍 Prediction Output
-
-![Prediction](outputs/sample_output.png)
-
-### 📊 Confusion Matrix
-
-![Confusion Matrix](outputs/confusion_matrix.png)
 
 ---
 
