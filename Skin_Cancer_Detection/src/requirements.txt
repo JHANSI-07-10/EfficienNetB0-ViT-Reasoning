@@ -1,0 +1,19 @@
+# Web Server & API
+flask
+flask-cors
+
+# Deep Learning & Transformers
+torch
+torchvision
+transformers
+safetensors
+accelerate
+
+# Data Processing & Math
+pandas
+numpy
+pillow
+scikit-learn
+
+# Utilities
+huggingface-hub

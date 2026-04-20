@@ -1,0 +1,18 @@
+TOTAL OVERALL ACCURACY: 87.32%
+Macro Precision: 0.8337
+Macro Recall: 0.7472
+Macro F1-score: 0.7856
+Macro F0.5-score: 0.8131
+------------------------------
+                  precision    recall  f1-score   support
+
+            Nevi       0.90      0.97      0.93      1341
+        Melanoma       0.68      0.65      0.67       223
+Benign Keratosis       0.86      0.65      0.74       220
+      Basal Cell       0.86      0.79      0.82       103
+         Actinic       0.90      0.71      0.79        65
+        Vascular       0.96      0.86      0.91        28
+  Dermatofibroma       0.67      0.61      0.64        23
+        accuracy                           0.87      2003
+       macro avg       0.83      0.75      0.79      2003
+    weighted avg       0.87      0.87      0.87      2003
