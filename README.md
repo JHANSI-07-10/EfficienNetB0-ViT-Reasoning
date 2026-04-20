@@ -1,8 +1,6 @@
 # EfficienNetB0-ViT-Reasoning
 
----
 
-````markdown
 # 🧠 Skin Cancer Detection using EfficientNet-B0 + Vision Transformer
 
 ## 📌 Overview
